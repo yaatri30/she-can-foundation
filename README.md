@@ -1,3 +1,5 @@
+#note: You can watch this website by clicking link: https://yaatri30.github.io/she-can-foundation/ near deployment.
+
 # she-can-foundation
 A premium, modern, fully responsive NGO website built using **HTML, CSS, and JavaScript**.
 Designed with a clean and elegant UI
