@@ -31,6 +31,18 @@ Designed with a clean and elegant UI
 
 # Project Structure
 she-can-foundation/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── README.md
+│
+└── assets/
+    ├── images/
+    
+# Project Structure
+she-can-foundation/
 ├── index.html
 ├── style.css
 ├── script.js
@@ -53,4 +65,3 @@ Yaatri Anil Kataria
 
 #Note
 If you like this project, consider giving it a ⭐ on GitHub.
-
