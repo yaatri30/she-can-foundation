@@ -49,7 +49,8 @@ User preference is automatically remembered.
 
 
 # Author
-Yaatri Anil Kataria
-If you like this project, consider giving it a ⭐ on GitHub.
+Yaatri Anil Kataria 
 
+#Note
+If you like this project, consider giving it a ⭐ on GitHub.
 
